@@ -1,0 +1,34 @@
+{
+  "name": "@cross2d/react-web-root-toast",
+  "version": "1.0.0",
+  "description": "toast",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "release":"npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-root-toast.git"
+  },
+  "author": "Colin3dmax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-root-toast/issues"
+  },
+  "dependencies": {
+    "react-native-root-siblings": "^1.0.8"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "image",
+    "video",
+    "focus"
+  ],
+  "homepage": "https://github.com/cross2d/react-web-root-toast#readme"
+}
